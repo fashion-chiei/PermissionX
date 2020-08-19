@@ -1,3 +1,6 @@
+#20200817 gradle.properties will put keystore account
+gradle.properties
+
 # Built application files
 *.apk
 *.aar
